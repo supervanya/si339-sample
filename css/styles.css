@@ -1,5 +1,17 @@
+ul {
+    text-align: center;
+    color: #222222;
+    
+
+}
+
+li {
+    display: inline;
+    background-color: white;
+}
+
 p{
-    color: :purple;
+    color:white;
 }
 
 h1 {
@@ -7,5 +19,7 @@ h1 {
 }
 
 body{
-    backgroud-color:grey;
+    background: midnightblue;
+    font-family: verdana;
+
 }
